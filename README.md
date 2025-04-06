@@ -1,5 +1,5 @@
 # Mi Proyecto Docker
-##chupame la pija batman
+chupame la pija batman
 
 Este proyecto incluye:
 - **Frontend**: HTML/JS (puerto 8080)
