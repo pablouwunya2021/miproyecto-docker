@@ -12,4 +12,10 @@ Este proyecto incluye:
 3. para que pare:
 docker-compose down  # Detiene y elimina contenedores
 docker-compose down -v  # Elimina contenedores y volúmenes
- 
+
+## para probalo
+**en tu pc**
+ frontend: http://localhost:8080/
+ backend: http://localhost:3000/api/data
+
+ (Probarlos en distintas pestañas)
